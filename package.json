@@ -1,0 +1,25 @@
+{
+  "name": "cryptodataserver",
+  "version": "1.0.0",
+  "description": "An Express server which servers data to the CrytoPrice App",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waitingP/CryptoDataServer.git"
+  },
+  "author": "weitingP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waitingP/CryptoDataServer/issues"
+  },
+  "homepage": "https://github.com/waitingP/CryptoDataServer#readme",
+  "dependencies": {
+    "Express": "^3.0.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.0"
+  },
+  "devDependencies": {}
+}
